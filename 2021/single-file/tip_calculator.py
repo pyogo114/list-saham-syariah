@@ -1,0 +1,6 @@
+print("Selamat datang di calculator tip")
+total = int(input("Berapa total pengeluaran makan bersama? "))
+tip = int(input("Berapa persen tip yang diinginkan? "))
+split = int(input("Berapa orang tagihan dibagi rata? "))
+perorang = float(((total * tip /100) + total) / split)
+print(f"Perorang dikenakan bagian sebesar {perorang}")

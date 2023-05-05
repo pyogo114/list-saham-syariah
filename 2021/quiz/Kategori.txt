@@ -1,0 +1,17 @@
+Film easy
+https://opentdb.com/api.php?amount=10&category=11&difficulty=easy
+
+Music medium
+https://opentdb.com/api.php?amount=10&category=12&difficulty=medium
+
+Video Games hard
+https://opentdb.com/api.php?amount=10&category=15&difficulty=hard
+
+Science and nature , any difficulties
+https://opentdb.com/api.php?amount=10&category=17
+
+Science, computer, hard
+https://opentdb.com/api.php?amount=10&category=18&difficulty=hard
+
+Geography, any difficulties
+https://opentdb.com/api.php?amount=10&category=22

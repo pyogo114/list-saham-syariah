@@ -1,0 +1,19 @@
+
+Install python library
+
+
+# membuat virtual enviroment
+python -m venv \venv
+
+cd venv
+
+source bin/activate
+
+pip install matplotlib
+
+(KALAU PIP INSTALL GAGAL KARENA Failed building wheel for bs4)
+
+pip install wheel
+
+pip install matplotlib
+
